@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "title": "Junior Front-end Developer",
+            "location": "Amsterdam",
+            "type": "Part-time"
+        },
+        {
+            "title": "Junior Front-end Developer",
+            "location": "Amsterdam",
+            "type": "Part-time"
+        },
+        {
+            "title": "Junior Front-end Developer",
+            "location": "Amsterdam",
+            "type": "Full-time"
+        }
+    ]
+}
